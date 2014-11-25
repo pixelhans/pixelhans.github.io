@@ -1,9 +1,6 @@
 function setup(){
   var theCanvas = createCanvas(640,360);
-  theCanvas.parent("mysketch");
-  noStroke();
-  background(0);
-  smooth();
+  theCanvas.parent("sketch");
 }
 
 function draw(){
