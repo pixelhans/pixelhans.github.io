@@ -1,9 +1,22 @@
 function setup(){
   var theCanvas = createCanvas(640,360);
   theCanvas.parent("mysketch");
+  noStroke();
+  background(0);
+  smooth();
 }
 
 function draw(){
-  ellipse(100,100,50,50);
+  fill(255);
+  for (int i= 0; i < width; i++)
+      {
+        for( int j=0; j < height; j++){
+
+        ellipse(i*20,j*20,j+2,j+2);
+
+      }
+
+
+  }
 
 }
