@@ -5,9 +5,9 @@ function setup(){
 
 function draw(){
   fill(255);
-  for (int i= 0; i < width; i++)
+  for ( i= 0; i < width; i++)
       {
-        for( int j=0; j < height; j++){
+        for( j=0; j < height; j++){
         ellipse(i*20,j*20,j+2,j+2);
       }
   }
