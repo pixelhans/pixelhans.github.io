@@ -4,8 +4,11 @@ function setup(){
 }
 
 function draw(){
-  background(255);
+  fill(255);
   for (int i= 0; i < width; i++)
-  ellipse(i*20,j*20,j+2,j+2);
+      {
+        for( int j=0; j < height; j++){
+        ellipse(i*20,j*20,j+2,j+2);
+      }
   }
 }
