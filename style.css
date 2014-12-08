@@ -13,19 +13,21 @@ p
 
 a:link
   {
-    color: #ff185f;
+    background-color: #ff185f;
+    color: #fff;
     font-family: courier, monospace;
     text-decoration: none;
   }
 
 a:hover
   {
-    color: #000;
+    background-color: #000;
+    color: #fff;
   }
 
-#links
+a:visited
   {
-    font: 50px;
+    text-decoration: none;
   }
 
 #body
