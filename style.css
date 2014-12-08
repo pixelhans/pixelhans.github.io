@@ -3,14 +3,14 @@ h1
     color: #ff185f;
     font: 25px;
     font-family: courier, monospace;
-    text-align: center;
+
   }
 
 p
   {
     font: 15px;
     font-family: courier, monospace;
-    text-align: center;
+
   }
 
 a
@@ -19,5 +19,5 @@ a
     font: 20px;
     font-family: courier, monospace;
     text-decoration: none;
-    text-align: center;
+
   }
