@@ -1,6 +1,6 @@
 h1
   {
-    color: #ff185f;
+    color: #8a07ff;
     font: 25px;
     font-family: courier, monospace;
   }
@@ -13,7 +13,7 @@ p
 
 a:link
   {
-    background-color: #ff185f;
+    background-color: #8a07ff;
     color: #fff;
     font-family: courier, monospace;
     text-decoration: none;
@@ -28,7 +28,7 @@ a:hover
 
 a:visited
   {
-    background-color: #ff185f;
+    background-color: #8a07ff;
     text-decoration: none;
     color: #fff;
   }
