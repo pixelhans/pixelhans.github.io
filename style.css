@@ -47,3 +47,12 @@ a:visited
 
     margin: auto;
   }
+
+#figur
+  {
+    padding: 0 5px 5px 5px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+  }
