@@ -23,11 +23,13 @@ a:hover
   {
     background-color: #000;
     color: #fff;
+    text-decoration: none;
   }
 
 a:visited
   {
     text-decoration: none;
+    color: #fff;
   }
 
 #body
