@@ -2,9 +2,18 @@ h1
   {
     color: #ff185f;
     font-family: "Inconsolata",;
+    text-align: center;
   }
 
 p
   {
     font-family: "Inconsolata",;
+    text-align: center;
+  }
+
+a
+  {
+    color: #ff185f;
+    text-decoration: none;
+    text-align: center;
   }
