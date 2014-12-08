@@ -13,7 +13,8 @@ p
 
 a:link
   {
-    color: #ff185f;
+    background-color: #ff185f;
+    color: #fff;
     font-family: courier, monospace;
     text-decoration: none;
   }
@@ -27,8 +28,9 @@ a:hover
 
 a:visited
   {
+    background-color: #ff185f;
     text-decoration: none;
-    color: #ff185f;
+    color: #fff;
   }
 
 #body
