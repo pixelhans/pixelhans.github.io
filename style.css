@@ -1,19 +1,23 @@
 h1
   {
     color: #ff185f;
-    font-family: "Inconsolata",;
+    font: 25px;
+    font-family: courier, monospace;
     text-align: center;
   }
 
 p
   {
-    font-family: "Inconsolata",;
+    font: 15px;
+    font-family: courier, monospace;
     text-align: center;
   }
 
 a
   {
     color: #ff185f;
+    font: 20px;
+    font-family: courier, monospace;
     text-decoration: none;
     text-align: center;
   }
