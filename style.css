@@ -17,6 +17,11 @@ a
     font-family: courier, monospace;
     text-decoration: none;
   }
+
+  a:hover {
+    color: #000;
+  }
+
 #links
   {
     font: 50px;
