@@ -1,10 +1,10 @@
 h1
   {
-    background: #ff185f;
-    color: #fff;
+    color: #ff185f;
+    font-family: "Inconsolata",;
   }
 
-body
+p
   {
-    font-family: 'Inconsolata',;
+    font-family: "Inconsolata",;
   }
