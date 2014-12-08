@@ -11,14 +11,15 @@ p
     font-family: courier, monospace;
   }
 
-a
+a:link
   {
     color: #ff185f;
     font-family: courier, monospace;
     text-decoration: none;
   }
 
-  a:hover {
+a:hover
+  {
     color: #000;
   }
 
