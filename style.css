@@ -33,6 +33,25 @@ p
     color: #fff;
   }
 
+#links2:link
+  {
+    color: #8a07ff;
+    font-family: courier, monospace;
+    text-decoration: none;
+  }
+
+#links2:hover
+  {
+    color: #bdbdbd;
+    text-decoration: none;
+  }
+
+#links2:visited
+  {
+    text-decoration: none;
+    color: #8a07ff;
+  }
+
 #body
   {
     width: 500px;
