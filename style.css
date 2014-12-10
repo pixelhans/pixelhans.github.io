@@ -32,31 +32,12 @@ p
     color: #fff;
   }
 
-#links2
+#x
   {
     padding: 0 0 0 0;
     position: absolute;
     top: 0;
     right: 0;
-  }
-
-#links2:link
-  {
-    color: #8a07ff;
-    font-family: courier, monospace;
-    text-decoration: none;
-  }
-
-#links2:hover
-  {
-    color: #bdbdbd;
-    text-decoration: none;
-  }
-
-#links2:visited
-  {
-    text-decoration: none;
-    color: #8a07ff;
   }
 
 #body
