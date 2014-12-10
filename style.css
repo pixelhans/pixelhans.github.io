@@ -33,11 +33,6 @@ p
     color: #fff;
   }
 
-#fb
-  {
-    background-image: url('twitter.png');
-  }
-
 #fb:hover
   {
     background-image: url('twitter_hover.png');
