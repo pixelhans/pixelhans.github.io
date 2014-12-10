@@ -33,16 +33,6 @@ p
     color: #fff;
   }
 
-  #fb
-  {
-    background-image: url('facebook.png');
-  }
-
-#fb:hover
-  {
-    background-image: url('facebook_hover.png');
-  }
-
 #body
   {
     width: 500px;
