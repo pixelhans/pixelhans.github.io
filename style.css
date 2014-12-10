@@ -4,8 +4,8 @@
     font-family: courier, monospace;
     padding: 0 0 0 0;
     position: absolute;
-    bottom: 0;
-    right: 0;
+    top: 0;
+    left: 0;
     font-size: 12px;
   }
 
@@ -46,7 +46,7 @@ p
 
 #x
   {
-    padding: 15px 0 0 0;
+    padding: 0 0 0 0;
     position: absolute;
     top: 0;
     right: 0;
