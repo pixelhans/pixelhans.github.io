@@ -50,7 +50,7 @@ a:visited
 
 #figur
   {
-    padding: 0 5px 5px 5px;
+    padding: 0 0 0 0;
     position: absolute;
     bottom: 0;
     right: 0;
@@ -58,7 +58,7 @@ a:visited
 
 #social
   {
-    padding: 0 5px 5px 5px;
+    padding: 0 0 0 0;
     position: absolute;
     bottom: 0;
     left: 0;
