@@ -1,4 +1,4 @@
-h6
+#tagline
   {
     color: #bdbdbd;
     font-family: courier, monospace;
@@ -6,6 +6,7 @@ h6
     position: absolute;
     bottom: 0;
     right: 0;
+    font: 8px;
   }
 
 h1
