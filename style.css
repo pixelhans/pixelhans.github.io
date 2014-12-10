@@ -56,17 +56,10 @@ a:visited
     right: 0;
   }
 
-#twit
+#social
   {
-    padding: 0 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
     position: absolute;
     bottom: 0;
     left: 0;
-  }
-
-#fb
-  {
-    padding: 0 5px 5px 5px;
-    position: absolute;
-    bottom: 0;
   }
