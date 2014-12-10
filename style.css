@@ -19,6 +19,20 @@ p
     text-decoration: none;
   }
 
+#links:hover
+  {
+    background-color: #bdbdbd;
+    color: #fff;
+    text-decoration: none;
+  }
+
+#links:visited
+  {
+    background-color: #8a07ff;
+    text-decoration: none;
+    color: #fff;
+  }
+
 #body
   {
     width: 500px;
