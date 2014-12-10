@@ -6,7 +6,7 @@
     position: absolute;
     bottom: 0;
     right: 0;
-    font: 4px;
+    font-size: 4px;
   }
 
 h1
@@ -17,7 +17,7 @@ h1
 
 p
   {
-    font: 15px;
+    font-size: 15px;
     font-family: courier, monospace;
     text-align: justify;
   }
