@@ -42,24 +42,21 @@ p
 
 #links2:link
   {
-    background-color: #8a07ff;
-    color: #fff;
+    color: #8a07ff;
     font-family: courier, monospace;
     text-decoration: none;
   }
 
 #links2:hover
   {
-    background-color: #bdbdbd;
-    color: #fff;
+    color: #bdbdbd;
     text-decoration: none;
   }
 
 #links2:visited
   {
-    background-color: #8a07ff;
     text-decoration: none;
-    color: #fff;
+    color: #8a07ff;
   }
 
 #body
